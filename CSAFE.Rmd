@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Kahlil Sample
 
-*Kahlil has attended many schools during his lifetime and has met a variety of people as a result of living in the military household. While attending **Albany State University** he has learned the chemical name for NaCl~2~. His favorite chemical compound is ~~H~2~ SO~4~~~. One may visit the school's website at <http://www.asurams.edu> *
+*Kahlil has attended many schools during his lifetime and has met a variety of people as a result of living in the military household. He enjoys watching the sorry Boston Celtics and loves **J Cole**. While attending **Albany State University** he has learned the chemical name for NaCl~2~.He enjoys biology even thought he says he hates it. His favorite chemical compound is ~~H~2~ SO~4~~~. One may visit the school's website at <http://www.asurams.edu> *
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
